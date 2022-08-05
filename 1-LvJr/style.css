@@ -1,0 +1,27 @@
+.container{
+    font-size: 1.5rem;
+    text-align: left;
+    margin-left: 40px;
+    line-height: 0.9;
+}
+.row{
+background-color:white;
+}
+.caixa_formulario{
+margin-top: 10px;
+margin-bottom: 50px;
+text-align: left;
+}
+.btn-primary{
+width: 90px;
+height: 30px;
+}   
+.btntwo{
+width: 200px;
+height: 30px; 
+}
+
+/* Sylvio Alberto*/ 
+
+
+
