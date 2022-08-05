@@ -19,3 +19,7 @@ LinkedIn. Clique abaixo:
 <br>
 
 <img src="img/InstrucoesDesHBO.jpg" alt="AllberX"/>
+<br>
+<img src="img/PrazoDesHBO.jpg" alt="AllberX"/>
+<br>
+<img src="img/Desafio_HBO_Max_Telas.png" alt="AllberX"/>
