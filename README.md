@@ -16,3 +16,6 @@ Ao finalizar o desafio, você
 deverá postar e nos marcar
 em nossos stories ou
 LinkedIn. Clique abaixo:
+<br>
+
+<img src="img/InstrucoesDesHBO.jpg" alt="AllberX"/>
